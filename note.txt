@@ -1,0 +1,17 @@
+để build thư viên node.js
+npm install
+----------------------
+để build laravel mix thì chạy lệnh:
+npm run dev
+---------------------
+php artisan serve
+
+/ clear cache config
+$ php artisan config:clear
+$ php artisan config:cache
+
+// clear cache view
+$ php artisan view:clear
+-----------------------------
+lỗi slide
+lỗi loại sản phẩm không nhận css
